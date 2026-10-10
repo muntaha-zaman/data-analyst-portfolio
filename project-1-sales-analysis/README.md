@@ -7,7 +7,7 @@ This project analyzes online retail transaction data to identify sales trends, p
 The project demonstrates an end-to-end data analytics workflow using Python, Pandas, SQL, SQLite, and Power BI, from data cleaning and validation to business analysis and interactive dashboard development.
 
 ## Interactive Power BI Dashboard
-![Online Retail Sales Dashboard](dashboard_screenshot.png)
+![Online Retail Sales Dashboard](./Retail%20sales%20dashboard.PNG)
 The Power BI dashboard provides a visual overview of sales performance from December 2009 to December 2010.
 
 The dashboard includes:
